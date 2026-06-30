@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package persona;
+
 /**
  *
  * @author erick
@@ -39,6 +40,5 @@ public class Persona {
     public String toString() {
         return "Persona{" + "id=" + id + ", nombre=" + nombre + ", telefono=" + telefono + '}';
     }
-    
     
 }
